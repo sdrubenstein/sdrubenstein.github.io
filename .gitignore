@@ -4,3 +4,5 @@
 *.vsidx
 .vs/stewrubenstein-com/config/applicationhost.config
 .vs/stewrubenstein-com/FileContentIndex/read.lock
+.vs/VSWorkspaceState.json
+.vs/stewrubenstein-com/v17/.suo
